@@ -7,5 +7,3 @@ This project highlights Terraform, EKS, ECR etc. I have divided this into phases
 **Phase 3** : Core Cluster Services (Helm)<br>
 **Phase 4** : Application Layer (Golang + Kubernetes)<br>
 **Phase 5** : Observability & Alerting (Helm)<br>
-
-State Management: Configure remote state storage (e.g., S3 + DynamoDB) for your Terraform workspace.
